@@ -1,0 +1,64 @@
+body {
+    background-color: azure;
+  }
+  .sup {
+    width: 1000px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right:auto;
+    
+  
+}
+
+.franja{
+  width: 1000px;
+  height: 10px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right:auto;
+  background-color: black;
+}
+  h1 {
+    color: blue;
+  }
+  p {
+    color: black;
+  }
+  .img {
+    float: right;
+  }
+  .info{
+    float: left;
+  }
+  .Perfil{
+    width: 1000px;
+    height: 1px;
+    margin-left: auto;
+    margin-right:auto;
+  }
+  .texto{
+    width: 1000px;
+
+    margin-left: auto;
+    margin-right:auto;
+    }
+  .contacto{
+    width: 1000px;
+
+    margin-left: auto;
+    margin-right:auto;
+    
+    padding-left: 500px;
+    padding-top: 50px;
+    }
+  .logo{
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 50px;
+  }
+
+  .nombre{
+    
+    
+  }
